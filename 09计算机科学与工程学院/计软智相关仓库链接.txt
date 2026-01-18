@@ -1,0 +1,4 @@
+东南大学计软智部分专业课程作业仓库：
+https://github.com/Kamichanw/SEU-Course-Homework
+
+目前git上能够找到的维护的比较好的项目只有这个了，希望有更多计软智同学可以整理开源
