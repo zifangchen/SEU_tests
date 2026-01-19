@@ -75,7 +75,8 @@ SEU_tests/
 │       └── 📙 工科数学分析基础教学辅导书_下册.txt
 └── 📄 README.md
 
-📚 学习资料
+```
+
 <div style="background-color: #fff3cd; border-left: 4px solid #FF9800; padding: 12px; border-radius: 4px; margin: 15px 0;">
   <strong>📖 资料说明</strong><br>
   教材和资料仅供学习参考，请支持正版图书和老师劳动成果！ 
