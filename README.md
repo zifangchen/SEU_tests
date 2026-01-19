@@ -1,12 +1,18 @@
 # 📚 SEU_tests - 东南大学学习资源库
 
-<div align="center">
-
-![Project Structure](https://img.shields.io/badge/📁-项目结构-4A90E2)
-![Last Updated](https://img.shields.io/badge/🔄-持续更新-50B848)
-![Stars](https://img.shields.io/github/stars/zifangchen/SEU_tests?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/zifangchen/SEU_tests?style=flat-square&logo=github)
-
+<div align="center" style="margin-top: 30px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+  <a href="https://github.com/zifangchen/SEU_tests">
+      <img src="https://img.shields.io/badge/🏠-访问仓库-4A90E2" alt="访问仓库">
+  </a>
+  <a href="https://github.com/zifangchen/SEU_tests/stargazers">
+      <img src="https://img.shields.io/badge/⭐-点亮Star-yellow" alt="点亮Star">
+  </a>
+  <a href="https://github.com/zifangchen/SEU_tests/fork">
+      <img src="https://img.shields.io/badge/🍴-Fork项目-green" alt="Fork项目">
+  </a>
+  <a href="https://github.com/zifangchen/SEU_tests/issues">
+      <img src="https://img.shields.io/badge/📧-反馈问题-blue" alt="反馈问题">
+  </a>
 </div>
 
 ## 📋 项目说明
